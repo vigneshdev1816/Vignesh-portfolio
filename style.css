@@ -98,7 +98,7 @@ p{
     background-color: brown;
     width: 280px;
     height: 345px;
-    background-image: url(../main/images/vick.jpg);
+    background-image: url(/main/images/vick.jpg);
     margin-left: 45px;
     box-shadow: 0 0 20px rgb(85, 0, 255);
     border-radius: 25px;
@@ -168,7 +168,7 @@ h1{
     .html {
         width: 155px;
         height: 161px;  
-        background-image: url(../main/images/html.png);
+        background-image: url(/main/images/html.png);
         background-repeat:no-repeat;
         background-size: cover;
         background-position: center;
@@ -182,7 +182,7 @@ h1{
     .css{
     width: 155px;
     height: 161px;
-    background-image: url(../main/images/css.png);
+    background-image: url(/main/images/css.png);
     background-repeat:no-repeat;
     background-size: cover;
     background-position: center;
@@ -196,7 +196,7 @@ h1{
     .python{
     width: 155px;
     height: 161px;
-    background-image: url(../main/images/python.png);
+    background-image: url(/main/images/python.png);
     background-repeat:no-repeat;
     background-size: cover;
     background-position: center;
@@ -210,7 +210,7 @@ h1{
     .sql{
     width: 155px;
     height: 161px;
-    background-image: url(../main/images/sql.webp);
+    background-image: url(/main/images/sql.webp);
     background-repeat:no-repeat;
     background-size: cover;
     background-position: center;
@@ -224,7 +224,7 @@ h1{
     .github{
     width: 155px;
     height: 161px;
-    background-image: url(../main/images/git.jpg);
+    background-image: url(/main/images/git.jpg);
     background-repeat:no-repeat;
     background-size: cover;
     background-position: center;

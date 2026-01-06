@@ -347,10 +347,11 @@ button{
   color: cornsilk;
   margin: 45px;
 }
-.gmail-icon {
-  font-size: 32px; 
+.mail {
+  font-size: 28px; 
   color: cornsilk;
-  margin: 45px;
+  margin-left: 32px;
+  margin-right: 32px;
 }
 .Instagram-icon {
   font-size: 32px;
@@ -383,7 +384,7 @@ button{
     padding: 10px;
   }
   .index{
-    font-size: 15px;
+    font-size: 14px;
     margin-right: 3px;
   }
   .main{

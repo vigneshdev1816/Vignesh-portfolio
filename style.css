@@ -385,7 +385,7 @@ button{
   }
   .index{
     font-size: 14px;
-    margin-right: 3px;
+    margin-right: 0px;
   }
   .main{
     position: sticky;
@@ -522,10 +522,13 @@ button{
   }
   .linkedin-icon,
   .Github-icon,
-  .gmail-icon,
   .Instagram-icon {
     font-size: 26px;
     margin: 1px;
+  }
+  .mail{
+    margin-left: 0px;
+    margin-right: 0px;
   }
   .icon {
     margin: 0;

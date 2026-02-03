@@ -132,7 +132,10 @@ p{
     letter-spacing: 1px;
     }
 }
-
+.edu{
+    color: #ff0000;
+    font-size: 32px;
+}
 /* Skills*/
 
 #skills{

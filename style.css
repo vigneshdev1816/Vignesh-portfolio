@@ -557,11 +557,13 @@ button:hover{
   }
   .linkedin-icon,
   .Github-icon,
-  .Instagram-icon {
+  .Instagram-icon,
+  .mail-icon{
     font-size: 26px;
     margin: 1px;
   }
   .mail{
+    font-size: 26px;
     margin-left: 0px;
     margin-right: 0px;
   }

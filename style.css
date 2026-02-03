@@ -145,7 +145,7 @@ p{
     margin-top: 90px;
     margin-bottom: -120px;
 Span{
-    margin-left: 55px;
+    margin-left: 45px;
     }  
 }
 .col{
@@ -162,15 +162,16 @@ h1{
 }
 .sksec{
     display: flex;
-    gap: 35px;
-    margin-left: 90px;
+    gap: 53px;
+    margin-left: 72px;
+    margin-top: -34px;
     border-radius: 35px;
     transition: transform 0.2s ease;
 }
 .html img{
-    width: 170px;
-    height: 170px;
     box-shadow: 0 0 20px rgb(85, 0, 255);
+    width: 130px;
+    height: 130px;
     border-radius: 25px;
     margin-top: 45px;
     margin-bottom: 20px;
@@ -179,8 +180,8 @@ h1{
     transform:translate(2px) 
 }
 .css img{
-    width: 170px;
-    height: 170px;
+    width: 130px;
+    height: 130px;
     box-shadow: 0 0 20px rgb(85, 0, 255);
     border-radius: 25px;
     margin-top: 45px;
@@ -190,8 +191,8 @@ h1{
     transform:translate(2px)  
 }
 .python img{
-    width: 170px;
-    height: 170px;
+    width: 130px;
+    height: 130px;
     box-shadow: 0 0 20px rgb(85, 0, 255);
     border-radius: 25px;
     margin-top: 45px;
@@ -200,9 +201,20 @@ h1{
 .python img:hover{
     transform:translate(2px) 
 }
+.java img{
+    width: 130px;
+    height: 130px;
+    box-shadow: 0 0 20px rgb(85, 0, 255);
+    border-radius: 25px;
+    margin-top: 45px;
+    margin-bottom: 20px;
+}
+.java img:hover{
+    transform:translate(2px) 
+}
 .sql img{
-    width: 170px;
-    height: 170px;
+    width: 130px;
+    height: 130px;
     box-shadow: 0 0 20px rgb(85, 0, 255);
     border-radius: 25px;
     margin-top: 45px;
@@ -212,8 +224,8 @@ h1{
     transform:translate(2px)
 }
 .github img{
-    width: 170px;
-    height: 170px;
+    width: 130px;
+    height: 130px;
     box-shadow: 0 0 20px rgb(85, 0, 255);
     border-radius: 25px;
     margin-top: 45px;
